@@ -1,4 +1,4 @@
 hi from master
 line 2
 hi from feature
-
+line 3
